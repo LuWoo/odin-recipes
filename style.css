@@ -1,0 +1,32 @@
+h1 {
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+}
+
+h1.salad {
+    background-color: green;
+    text-align: left;
+}
+
+h1.meat {
+    background-color: brown;
+    text-align: right;
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+li {
+    background-color: brown;
+}
+
+ol li {
+    color: yellowgreen;
+    background-color: blueviolet;
+}
+
+#two {
+    background-color: blueviolet;
+}
